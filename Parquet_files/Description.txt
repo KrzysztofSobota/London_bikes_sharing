@@ -1,0 +1,1 @@
+In this folder will be put all *.parquet files, which are useful in faster analysing data than by using CSV files.
