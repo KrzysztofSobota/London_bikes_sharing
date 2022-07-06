@@ -1,0 +1,593 @@
+
+
+
+Time
+Temperature
+Relative Temperature
+Wind
+Wind Gust
+Rel. humidity
+Dew Point
+Pressure
+Icon
+DescriptionDetails
+
+
+
+
+00:20
+8°C
+5°C
+230°17 Km/h
+N/A
+82%
+5°C
+1023.0mb
+
+ Scattered Clouds at 400m, Broken Clouds at 1200m  
+
+
+00:50
+7°C
+5°C
+230°11 Km/h
+N/A
+87%
+5°C
+1023.0mb
+
+ Few Clouds at 1200m  
+
+
+01:20
+7°C
+5°C
+230°9 Km/h
+N/A
+87%
+5°C
+1022.0mb
+
+ Broken Clouds at 1300m  
+
+
+01:50
+7°C
+5°C
+240°11 Km/h
+N/A
+87%
+5°C
+1022.0mb
+
+ Broken Clouds at 1200m  
+
+
+02:20
+7°C
+4°C
+240°17 Km/h
+N/A
+87%
+5°C
+1021.0mb
+
+ Cloudy at 980m  
+
+
+02:50
+7°C
+4°C
+210°15 Km/h
+N/A
+87%
+5°C
+1021.0mb
+
+ Few Clouds at 340m, Scattered Clouds at 980m  
+
+
+03:20
+7°C
+4°C
+220°15 Km/h
+N/A
+87%
+5°C
+1020.0mb
+
+ Broken Clouds at 940m  
+
+
+03:50
+7°C
+5°C
+220°13 Km/h
+N/A
+87%
+5°C
+1020.0mb
+
+ Broken Clouds at 980m  
+
+
+04:20
+7°C
+5°C
+220°13 Km/h
+N/A
+81%
+4°C
+1019.0mb
+
+ Broken Clouds at 1000m Light Rain 
+
+
+04:50
+7°C
+5°C
+230°13 Km/h
+N/A
+81%
+4°C
+1018.0mb
+
+ Few Clouds at 490m, Broken Clouds at 1300m Light Rain 
+
+
+05:20
+7°C
+4°C
+220°15 Km/h
+N/A
+87%
+5°C
+1018.0mb
+
+ Scattered Clouds at 1100m, Cloudy at 1400m Light Rain 
+
+
+05:50
+7°C
+5°C
+230°13 Km/h
+N/A
+87%
+5°C
+1017.0mb
+
+ Scattered Clouds at 1400m Light Rain 
+
+
+06:20
+7°C
+5°C
+240°13 Km/h
+N/A
+87%
+5°C
+1017.0mb
+
+ Few Clouds at 300m  
+
+
+06:50
+7°C
+5°C
+220°11 Km/h
+N/A
+93%
+6°C
+1017.0mb
+
+ Few Clouds at 270m, Scattered Clouds at 1300m Light Rain 
+
+
+07:20
+7°C
+5°C
+230°13 Km/h
+N/A
+93%
+6°C
+1017.0mb
+
+ Few Clouds at 1300m Light Rain 
+
+
+07:50
+8°C
+6°C
+230°11 Km/h
+N/A
+87%
+6°C
+1016.0mb
+
+  Light Rain 
+
+
+08:20
+8°C
+6°C
+220°11 Km/h
+N/A
+87%
+6°C
+1016.0mb
+
+ Broken Clouds at 1400m Light Rain 
+
+
+08:50
+8°C
+6°C
+220°11 Km/h
+N/A
+93%
+7°C
+1016.0mb
+
+ Few Clouds at 520m, Scattered Clouds at 980m, Broken Clouds at 1200m Light Rain 
+
+
+09:20
+8°C
+6°C
+210°9 Km/h
+N/A
+93%
+7°C
+1016.0mb
+
+ Few Clouds at 340m, Scattered Clouds at 520m, Broken Clouds at 910m Light Rain 
+
+
+09:50
+9°C
+8°C
+230°7 Km/h
+N/A
+87%
+7°C
+1016.0mb
+
+ Broken Clouds at 670m, Broken Clouds at 850m  
+
+
+10:20
+9°C
+7°C
+240°11 Km/h
+N/A
+87%
+7°C
+1015.0mb
+
+ Scattered Clouds at 370m, Scattered Clouds at 490m, Broken Clouds at 640m  
+
+
+10:50
+10°C
+8°C
+240°15 Km/h
+N/A
+88%
+8°C
+1015.0mb
+
+ Scattered Clouds at 340m  
+
+
+11:20
+10°C
+8°C
+240°15 Km/h
+N/A
+88%
+8°C
+1015.0mb
+
+ Few Clouds at 1100m, Scattered Clouds at 1500m  
+
+
+11:50
+10°C
+8°C
+250°13 Km/h
+N/A
+82%
+7°C
+1015.0mb
+
+ Broken Clouds at 1200m, Broken Clouds at 1400m  
+
+
+12:20
+10°C
+8°C
+240°17 Km/h
+N/A
+82%
+7°C
+1015.0mb
+
+ Few Clouds at 490m, Broken Clouds at 1200m  
+
+
+12:50
+10°C
+8°C
+240°15 Km/h
+N/A
+82%
+7°C
+1014.0mb
+
+ Broken Clouds at 460m, Broken Clouds at 1500m  
+
+
+13:20
+10°C
+8°C
+240°15 Km/h
+N/A
+82%
+7°C
+1014.0mb
+
+ Broken Clouds at 490m  
+
+
+13:50
+10°C
+8°C
+240°15 Km/h
+N/A
+82%
+7°C
+1014.0mb
+
+ Broken Clouds at 460m, Broken Clouds at 580m Light Rain 
+
+
+14:20
+9°C
+7°C
+270°13 Km/h
+N/A
+94%
+8°C
+1014.0mb
+
+ Scattered Clouds at 430m, Broken Clouds at 640m, Broken Clouds at 980m Light Rain 
+
+
+14:50
+7°C
+3°C
+350°28 Km/h
+N/A
+87%
+5°C
+1015.0mb
+
+ Broken Clouds at 240m, Broken Clouds at 760m, Cloudy at 940m Light Rain 
+
+
+15:20
+6°C
+2°C
+10°20 Km/h
+N/A
+93%
+5°C
+1016.0mb
+
+ Broken Clouds at 240m, Cloudy at 1200m Light Rain 
+
+
+15:50
+6°C
+2°C
+360°20 Km/h
+N/A
+87%
+4°C
+1016.0mb
+
+ Cloudy at 270m Light Rain 
+
+
+16:20
+6°C
+3°C
+10°17 Km/h
+N/A
+87%
+4°C
+1017.0mb
+
+ Broken Clouds at 340m, Cloudy at 460m Light Rain 
+
+
+16:50
+6°C
+2°C
+20°24 Km/h
+N/A
+87%
+4°C
+1018.0mb
+
+ Broken Clouds at 370m, Cloudy at 850m Light Rain 
+
+
+17:20
+5°C
+2°C
+30°15 Km/h
+N/A
+93%
+4°C
+1018.0mb
+
+ Broken Clouds at 340m, Broken Clouds at 550m, Cloudy at 850m Light Rain 
+
+
+17:50
+5°C
+1°C
+30°19 Km/h
+N/A
+87%
+3°C
+1018.0mb
+
+ Broken Clouds at 340m, Broken Clouds at 460m, Cloudy at 1200m Light Rain 
+
+
+18:20
+5°C
+2°C
+30°15 Km/h
+N/A
+93%
+4°C
+1019.0mb
+
+ Broken Clouds at 340m, Cloudy at 1300m Light Rain 
+
+
+18:50
+5°C
+2°C
+30°13 Km/h
+N/A
+93%
+4°C
+1019.0mb
+
+ Broken Clouds at 370m, Cloudy at 1500m Light Rain 
+
+
+19:20
+5°C
+2°C
+30°15 Km/h
+N/A
+93%
+4°C
+1020.0mb
+
+ Broken Clouds at 370m, Cloudy at 1200m Light Rain 
+
+
+19:50
+5°C
+2°C
+30°15 Km/h
+N/A
+93%
+4°C
+1020.0mb
+
+ Broken Clouds at 370m, Broken Clouds at 670m, Cloudy at 1300m Light Rain 
+
+
+20:20
+5°C
+2°C
+20°13 Km/h
+N/A
+93%
+4°C
+1021.0mb
+
+ Few Clouds at 580m, Broken Clouds at 760m, Cloudy at 1000m Light Rain 
+
+
+20:50
+5°C
+2°C
+20°15 Km/h
+N/A
+93%
+4°C
+1021.0mb
+
+ Broken Clouds at 270m, Broken Clouds at 400m, Cloudy at 790m Light Rain 
+
+
+21:20
+5°C
+2°C
+10°17 Km/h
+N/A
+93%
+4°C
+1021.0mb
+
+ Scattered Clouds at 300m, Broken Clouds at 670m, Broken Clouds at 850m Light Rain 
+
+
+21:50
+5°C
+2°C
+10°11 Km/h
+N/A
+93%
+4°C
+1022.0mb
+
+ Few Clouds at 400m, Scattered Clouds at 910m, Broken Clouds at 1300m Light Rain and Snowfall 
+
+
+22:20
+5°C
+2°C
+10°13 Km/h
+N/A
+93%
+4°C
+1022.0mb
+
+ Few Clouds at 850m, Broken Clouds at 1300m  
+
+
+22:50
+5°C
+2°C
+10°11 Km/h
+N/A
+93%
+4°C
+1022.0mb
+
+ Few Clouds at 340m  
+
+
+23:20
+5°C
+3°C
+10°9 Km/h
+N/A
+93%
+4°C
+1022.0mb
+
+ 
+
+
+23:50
+5°C
+2°C
+10°11 Km/h
+N/A
+87%
+3°C
+1023.0mb
+
+ 
+
+
